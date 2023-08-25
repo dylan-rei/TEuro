@@ -4,7 +4,7 @@ Copyright (C) 2022 - 2023 TESOBE GmbH
 
 
 # Rationale
-Create a blockchain stable coin who’s full and complete ownership graph is forever transparent and traceable to KYC’d legal persons or entities.
+Create a blockchain stablecoin of which the full and complete ownership graph is forever transparent and traceable to KYC’d legal persons or entities.
 
 Why: Reduce corruption and create networks of values.
 
